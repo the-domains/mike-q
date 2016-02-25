@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T00:09:46.577Z'
-dateModified: '2016-02-25T00:09:36.223Z'
+datePublished: '2016-02-25T00:15:19.813Z'
+dateModified: '2016-02-25T00:15:07.132Z'
 author:
   - name: Mike Quinones
     url: 'https://www.youtube.com/user/maiquee'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: BossaCries_credits.mov
+sourcePath: _posts/2016-02-25-bossacries_creditsmov.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-02-25-bossacries_creditsmov.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
