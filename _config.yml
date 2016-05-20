@@ -1,9 +1,7 @@
-favicon: null
 name: Mike Q
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.74222
+typography_spectrum: 0.2858688659034669
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.6670294257346541
-  brandStrength: 0.5115840386133641
-  rhythmicContrast: 0.5636008579749614
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 0.2070098377298564
-typography_spectrum: 0.2858688659034669
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 1
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#a9602d'
+    - '#1b0700'
+    - '#f5b763'
+    - '#a18c8d'
+  brandStrength: 0.6875
+  lightness: 0.2070098377298564
+  saturation: 0.6670294257346541
+  rhythmicContrast: 0.5636008579749614
+purpose: []
